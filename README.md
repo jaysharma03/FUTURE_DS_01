@@ -8,9 +8,7 @@
 This project is a business sales dashboard built using Power BI. It focuses on analyzing retail performance by exploring sales trends, product performance, customer segments, and regional profitability.
 The dashboard transforms raw data into actionable insights, enabling businesses to make informed, data-driven decisions and identify growth opportunities. 
 
-It provides a comprehensive view of key metrics such as sales, profit, customer behavior, and regional performance. The dashboard enables users to identify trends, evaluate product performance, and uncover actionable insights to support data-driven decision-making.
-
-## 📂 Dataset
+# 📂 Dataset
 - Source:  [Superstore Dataset](https://raw.githubusercontent.com/jaysharma03/FUTURE_DS_01/main/SuperStore_Sales_%20DataSet.csv)
 - Format: CSV  
 
