@@ -30,6 +30,22 @@ It provides a comprehensive view of key metrics such as sales, profit, customer 
 
 ---
 
+## 🚚 Shipping Performance Analysis
+
+- Calculated **Average Shipping Days** using DAX to measure delivery efficiency  
+- Helps identify delays and optimize logistics performance  
+- Provides insights into customer delivery experience  
+
+### DAX Measure:
+```DAX
+Average Ship Days = 
+AVERAGEX(
+    'Superstore sales',
+    DATEDIFF('Superstore sales'[Order Date], 'Superstore sales'[Ship Date], DAY)
+)
+
+
+
 ## ✨ Key Features
 
 ### KPI Metrics
