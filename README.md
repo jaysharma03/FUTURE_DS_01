@@ -5,7 +5,8 @@
 ---
 
 ## 🧭 Overview
-This project presents an interactive Superstore Sales Dashboard built using Power BI to analyze retail business performance. 
+This project is a business sales dashboard built using Power BI. It focuses on analyzing retail performance by exploring sales trends, product performance, customer segments, and regional profitability.
+The dashboard transforms raw data into actionable insights, enabling businesses to make informed, data-driven decisions and identify growth opportunities. 
 
 It provides a comprehensive view of key metrics such as sales, profit, customer behavior, and regional performance. The dashboard enables users to identify trends, evaluate product performance, and uncover actionable insights to support data-driven decision-making.
 
