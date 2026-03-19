@@ -34,7 +34,9 @@ It provides a comprehensive view of key metrics such as sales, profit, customer 
 
 - Calculated **Average Shipping Days** using DAX to measure delivery efficiency  
 - Helps identify delays and optimize logistics performance  
-- Provides insights into customer delivery experience  
+- Provides insights into customer delivery experience
+
+---
 
 ### DAX Measure:
 ```DAX
