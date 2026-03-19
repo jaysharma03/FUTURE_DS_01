@@ -71,10 +71,10 @@ The dashboard helps stakeholders make data-driven decisions by identifying growt
 ---
 
 ## ▶️ Usage
-1. Download the .pbix file  
-2. Open in Power BI Desktop  
-3. Use slicers and filters to explore insights  
-4. Export reports if needed  
+- Download the `.pbix` file  
+- Open it in Power BI Desktop  
+- Use slicers and filters to explore insights  
+- Analyze trends across time, region, and products 
 
 ---
 
