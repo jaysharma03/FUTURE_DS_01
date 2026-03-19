@@ -10,7 +10,7 @@ This project presents an interactive Superstore Sales Dashboard built using Powe
 It provides a comprehensive view of key metrics such as sales, profit, customer behavior, and regional performance. The dashboard enables users to identify trends, evaluate product performance, and uncover actionable insights to support data-driven decision-making.
 
 ## 📂 Dataset
-- Source:  [Superstore Dataset](https://github.com/jaysharma03/FUTURE_DS_01/raw/main/superstore_dataset.csv)
+- Source:  [Superstore Dataset](https://github.com/jaysharma03/FUTURE_DS_01/raw/main/SuperStore Sales DataSet.csv.xlsx)
 - Format: CSV  
 
 ### Key Attributes:
