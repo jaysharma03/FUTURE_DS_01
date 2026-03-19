@@ -20,31 +20,12 @@ It provides a comprehensive view of key metrics such as sales, profit, customer 
 - Order Date, Ship Date  
 - Region, Customer Segment  
 
-
 ---
 
 ## 🛠️ Tech Stack
 - Power BI (Visualization & Dashboard)  
 - DAX (Calculations & KPIs)  
 - Excel (Optional – Data Cleaning)  
-
----
-
-## 🚚 Shipping Performance Analysis
-
-- Calculated **Average Shipping Days** using DAX to measure delivery efficiency  
-- Helps identify delays and optimize logistics performance  
-- Provides insights into customer delivery experience
-
----
-
-### DAX Measure:
-```DAX
-Average Ship Days = 
-AVERAGEX(
-    'Superstore sales',
-    DATEDIFF('Superstore sales'[Order Date], 'Superstore sales'[Ship Date], DAY)
-)
 
 ---
 
@@ -80,10 +61,10 @@ AVERAGEX(
 ---
 
 ## ▶️ Usage
-- Download the `.pbix` file  
-- Open it in Power BI Desktop  
-- Use slicers and filters to explore insights  
-- Analyze trends across time, region, and products 
+1. Download the .pbix file  
+2. Open in Power BI Desktop  
+3. Use slicers and filters to explore insights  
+4. Export reports if needed  
 
 ---
 
