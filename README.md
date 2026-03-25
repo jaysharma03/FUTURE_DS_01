@@ -9,7 +9,7 @@ This project is a business sales dashboard built using Power BI. It focuses on a
 The dashboard transforms raw data into actionable insights, enabling businesses to make informed, data-driven decisions and identify growth opportunities. 
 
 # 📂 Dataset
-- Source:  [Superstore Dataset](https://raw.githubusercontent.com/jaysharma03/FUTURE_DS_01/main/SuperStore_Sales_%20DataSet.csv)
+- Source:  [Superstore Dataset](https://raw.githubusercontent.com/jaysharma03/FUTURE_DS_03/main/SuperStore_Sales_%20DataSet.csv)
 - Format: CSV  
 
 ### Key Attributes:
